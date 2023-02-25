@@ -1,0 +1,244 @@
+
+#navv
+{
+    display:  flex;
+    background-color:white;
+}
+
+#navv ul{
+    display: flex;
+    padding: 2px;
+    margin: auto;
+    text-align:center;
+    margin:-30px;
+    margin-left: 350px;
+    letter-spacing: 0px;
+    
+  
+}
+#navv ul li a{
+    text-decoration: none;
+    padding: 0px;
+    color: rgb(47, 189, 22);
+    margin: 0px;
+    
+}
+
+#logo
+{
+    padding: 10px;
+  
+    display: block;
+ 
+}
+
+#logo img {
+    position: absolute;
+    width: 200px;
+    height: 75px;
+    left: 50px;
+    top: 0px;
+
+ 
+}
+.items{
+    display:  flex;
+    padding: 25px;
+    margin :25px ;
+}
+#homeback img{
+   position: relative;
+   width:1400px;
+   height: 700px;
+   left: 47px;
+   top: 10px;
+  
+   border-radius: 0px 0px 300px 0px;
+
+}
+#homeback h1{
+    position: absolute;
+    top: 442px;
+    color: white;
+    left: 300px;
+    font-size: 45px;
+    font-family:sans-serif;
+ 
+}
+#services{
+    display: block;
+    height: 850px;
+}
+#Ser_block{
+    border:none;
+    display: flex;
+    height: 1000px;
+    margin: 70px;
+    border-radius: 25px;
+
+
+}
+#Ser_block h1{
+    position: absolute;
+   margin-left: 600px;
+}
+
+.Section{
+    border:none;
+    display: block;
+    width: 400px;
+    height: 572px;
+    left: 126px;
+    top: 227px;
+    margin: 25px;
+    margin-top: 150px;
+    margin-left: 30px;
+    text-align: center;
+    background-color:  rgba(81, 145, 190, 1);
+    border-radius: 10px;
+    color: white;
+}
+.Section p{
+    margin-top: 50px;
+}
+
+#img3{
+margin-top: 50px;
+width: 185px;
+height: 176px;
+left: 1058px;
+top: 280px;
+
+}
+#img2{    
+margin-top: 50px;
+width: 196px;
+height: 179px;
+left: 623px;
+top: 280px;
+
+}
+#img1{
+
+ margin-top: 50px;  
+ width: 196px;
+height: 179px;   
+left: 220px;
+ top: 280px;
+ border-radius: 0px;
+
+}
+#product h1{
+
+    margin-left: 710px;
+
+    
+}
+#product h2{
+
+text-align: center;
+margin-top: 400px;
+font-size: 75px;
+
+
+    
+}
+#product{
+    height: 700px;
+    display:block ;
+
+}
+#clients{
+    height: 900px;
+    display:block ;
+
+  
+}
+#clients h1{
+    margin-left: 650px;
+}
+#clients img{
+    padding: 20px;
+}
+#feedback{
+    height: 820px;
+    display:block ;
+
+}
+#feedback h1{
+    margin-left: 650px;
+}
+.gimg{
+    margin: 9px;
+}
+#About{
+    height: 700px;
+    display:block ;
+  
+
+
+}
+#logo2{
+    margin-left: 30px;
+    margin-top: 74px;
+}
+#About h1{
+    margin-left: 700px;
+}
+#AP {
+   font-size:larger;
+   margin-top: 85px;
+   margin-left: 382px;
+}
+#foot{
+    height: 300px;
+    display: flex;
+    background-color:  rgba(81, 145, 190, 1);
+}
+
+#ds1 {
+    margin-left: -140px;
+    margin-top: -15px;
+    padding: 38px;
+}
+#ds2{
+    margin-top: -15px;
+    padding: 40px;
+}
+#ds1 li{
+    text-decoration: none;
+    padding: 10px;
+}
+#ds1 ul {
+    list-style: none;
+} 
+#ds2 ul{
+    list-style: none;
+}
+#ds2 li{
+    text-decoration: none;
+    padding: 10px;
+}
+
+#ifimg{
+    display: flex;
+    height:40px;
+    width: 40px;
+    margin-top: -19px;
+}
+.fimg{
+   border-radius: 50% ;
+   margin-left: 0px;
+   height: 30px;
+   width: 30px;
+   padding-right: 3px;
+
+}
+#J{
+    display: block;
+    width: 300px;
+    margin-left: 906px;
+    margin-top: 23px;
+}
+
+
